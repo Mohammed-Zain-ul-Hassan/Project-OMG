@@ -1,0 +1,13 @@
+Project OMG - Documentation
+============================
+
+Project Name: Project OMG
+Company: Emumba
+Type: Cloud-Based System Application
+
+Description:
+This is the initial documentation for Project OMG.
+The project aims to revolutionize cloud-based user interactions.
+
+Status: Initial Setup Complete
+Last Updated: [Current Date]
